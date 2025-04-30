@@ -1,2 +1,1 @@
-#!/bin/bash!bash
-python ph.py -f MicrosoftDomains -o ../MicrosoftHosts.txt
+python ph.py -f SteamDomains GithubDomains EpicDomains MicrosoftDomains -o ../hosts.txt --domain-out ../Steamdomains.txt --ip-out ../Steamips.txt
