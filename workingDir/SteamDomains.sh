@@ -1,2 +1,2 @@
 #!/bin/bash!bash
-python ph.py -f SteamDomains -o ../SteamDomains.txt
+python ph.py -f SteamDomains -o ../SteamHosts.txt
