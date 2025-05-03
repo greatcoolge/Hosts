@@ -28,7 +28,6 @@ gameclipscontent-d2009.xboxlive.com
 gameclipscontent-d2009.xboxlive.com
 gameclipscontent-d2009.xboxlive.com
 gameclipscontent-d2009.xboxlive.com
-gameclipscontent-d2009.xboxlive.com
 images-eds.xboxlive.com
 images-eds.xboxlive.com
 images-eds.xboxlive.com
@@ -46,8 +45,6 @@ images-eds-ssl.xboxlive.com
 images-eds-ssl.xboxlive.com
 images-eds-ssl.xboxlive.com
 images-eds-ssl.xboxlive.com
-images-eds-ssl.xboxlive.com
-images-eds-ssl.xboxlive.com
 rta.xboxlive.com
 peoplehub.xboxlive.com
 editorial.xboxlive.comedge.microsoft.com
@@ -56,6 +53,7 @@ msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 next-services.apps.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
