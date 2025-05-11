@@ -96,7 +96,6 @@ static-assets-prod.epicgames.com
 epicgames-download1.akamaized.net
 epicgames-download1.akamaized.net
 epicgames-download1.akamaized.net
-epicgames-download1.akamaized.net
 store-content-ipv4.ak.epicgames.com
 talon-website-prod.ak.epicgames.com
 talon-service-prod.ecosec.on.epicgames.com
@@ -118,7 +117,6 @@ epic-social-social-modules-prod.ol.epicgames.com
 epic-social-social-modules-prod.ol.epicgames.com
 epic-social-social-modules-prod.ol.epicgames.com
 epic-social-social-modules-prod.ol.epicgames.com
-eulatracking-public-service-prod06.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
 assets-hcaptcha-proxy-service-prod.ak.epicgames.com
