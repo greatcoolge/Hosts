@@ -55,9 +55,7 @@ tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
-tlu.dl.delivery.mp.microsoft.com
-tlu.dl.delivery.mp.microsoft.com
-tlu.dl.delivery.mp.microsoft.com
+dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
@@ -68,6 +66,13 @@ assets1.xboxlive.cn
 assets1.xboxlive.cn
 assets1.xboxlive.cn
 assets1.xboxlive.cn
+assets1.xboxlive.cn
+assets1.xboxlive.cn
+assets1.xboxlive.cn
+assets1.xboxlive.cn
+assets2.xboxlive.cn
+assets2.xboxlive.cn
+assets2.xboxlive.cn
 assets2.xboxlive.cn
 assets2.xboxlive.cn
 assets2.xboxlive.cn

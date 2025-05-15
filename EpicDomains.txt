@@ -120,6 +120,5 @@ epic-social-social-modules-prod.ol.epicgames.com
 epic-social-social-modules-prod.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
-eulatracking-public-service-prod06.ol.epicgames.com
 assets-hcaptcha-proxy-service-prod.ak.epicgames.com
 weighted-zh-eulatracking-public-service-prod06.ol.epicgames.com
