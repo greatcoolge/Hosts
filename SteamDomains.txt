@@ -18,7 +18,6 @@ media.steampowered.com
 media.steampowered.com
 store.steampowered.com
 cdn.akamai.steamstatic.com
-cdn.akamai.steamstatic.com
 cdn.store.steampowered.com
 cdn.store.steampowered.com
 store.st.dl.bscstorage.net
