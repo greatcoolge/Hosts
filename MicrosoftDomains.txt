@@ -8,13 +8,6 @@ login.live.com
 login.live.com
 account.live.com
 account.live.com
-account.live.com
-account.live.com
-account.live.com
-account.live.com
-account.live.com
-account.live.com
-account.live.com
 livefilestore.com
 docs.live.net
 onedrive.live.com
@@ -57,6 +50,10 @@ msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 next-services.apps.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com

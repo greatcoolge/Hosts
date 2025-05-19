@@ -13,7 +13,6 @@ steampoweredmedia.com
 steampoweredmedia.com
 steampoweredmedia.com
 cdn.steamcommunity.com
-cdn.steamcommunity.com
 media.steampowered.com
 media.steampowered.com
 store.steampowered.com
@@ -27,7 +26,6 @@ store.st.dl.pinyuncloud.com
 media.st.dl.pinyuncloud.com
 store.akamai.steamstatic.com
 store.akamai.steamstatic.com
-steamcommunity-a.akamaihd.net
 steamcommunity-a.akamaihd.net
 community.akamai.steamstatic.com
 community.akamai.steamstatic.com
