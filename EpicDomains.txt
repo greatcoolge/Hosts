@@ -88,10 +88,14 @@ songbird.cardinalcommerce.com
 songbird.cardinalcommerce.com
 store-content.ak.epicgames.com
 store-content.ak.epicgames.com
+store-content.ak.epicgames.com
 static-assets-prod.epicgames.com
 static-assets-prod.epicgames.com
 static-assets-prod.epicgames.com
 static-assets-prod.epicgames.com
+epicgames-download1.akamaized.net
+epicgames-download1.akamaized.net
+epicgames-download1.akamaized.net
 epicgames-download1.akamaized.net
 epicgames-download1.akamaized.net
 epicgames-download1.akamaized.net
@@ -102,6 +106,7 @@ talon-service-prod.ecosec.on.epicgames.com
 talon-service-prod.ecosec.on.epicgames.com
 talon-website-prod.ecosec.on.epicgames.com
 talon-website-prod.ecosec.on.epicgames.com
+store-site-backend-static.ak.epicgames.com
 store-site-backend-static.ak.epicgames.com
 store-site-backend-static.ak.epicgames.com
 account-public-service-prod03.ol.epicgames.com
