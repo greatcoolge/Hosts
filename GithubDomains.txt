@@ -86,7 +86,6 @@ github-com.s3.amazonaws.com
 github-com.s3.amazonaws.com
 github-com.s3.amazonaws.com
 github-com.s3.amazonaws.com
-github-com.s3.amazonaws.com
 github.global.ssl.fastly.net
 objects.githubusercontent.com
 objects.githubusercontent.com
@@ -96,7 +95,6 @@ desktop.githubusercontent.com
 desktop.githubusercontent.com
 desktop.githubusercontent.com
 desktop.githubusercontent.com
-github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
