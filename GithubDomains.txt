@@ -103,6 +103,7 @@ github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
+github-cloud.s3.amazonaws.com
 avatars.githubusercontent.com
 avatars.githubusercontent.com
 avatars.githubusercontent.com
@@ -191,6 +192,7 @@ github-production-release-asset-2e65be.s3.amazonaws.com
 github-production-release-asset-2e65be.s3.amazonaws.com
 github-production-release-asset-2e65be.s3.amazonaws.com
 github-production-release-asset-2e65be.s3.amazonaws.com
+github-production-repository-file-5c1aeb.s3.amazonaws.com
 github-production-repository-file-5c1aeb.s3.amazonaws.com
 github-production-repository-file-5c1aeb.s3.amazonaws.com
 github-production-repository-file-5c1aeb.s3.amazonaws.com
