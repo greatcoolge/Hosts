@@ -3,6 +3,9 @@ hcaptcha.com
 epicgames.com
 epicgames.com
 epicgames.com
+epicgames.com
+epicgames.com
+epicgames.com
 js.hcaptcha.com
 js.hcaptcha.com
 imgs.hcaptcha.com
@@ -93,6 +96,13 @@ static-assets-prod.epicgames.com
 static-assets-prod.epicgames.com
 static-assets-prod.epicgames.com
 static-assets-prod.epicgames.com
+epicgames-download1.akamaized.net
+epicgames-download1.akamaized.net
+epicgames-download1.akamaized.net
+epicgames-download1.akamaized.net
+epicgames-download1.akamaized.net
+epicgames-download1.akamaized.net
+epicgames-download1.akamaized.net
 epicgames-download1.akamaized.net
 epicgames-download1.akamaized.net
 epicgames-download1.akamaized.net
