@@ -7,7 +7,6 @@ login.live.com
 login.live.com
 login.live.com
 account.live.com
-account.live.com
 livefilestore.com
 docs.live.net
 onedrive.live.com
@@ -55,7 +54,7 @@ tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
-dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
