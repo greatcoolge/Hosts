@@ -86,6 +86,7 @@ github-com.s3.amazonaws.com
 github-com.s3.amazonaws.com
 github-com.s3.amazonaws.com
 github-com.s3.amazonaws.com
+github-com.s3.amazonaws.com
 github.global.ssl.fastly.net
 objects.githubusercontent.com
 objects.githubusercontent.com
@@ -102,6 +103,7 @@ github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
+github-cloud.s3.amazonaws.com
 avatars.githubusercontent.com
 avatars.githubusercontent.com
 avatars.githubusercontent.com
@@ -174,6 +176,7 @@ marketplace-screenshots.githubusercontent.com
 marketplace-screenshots.githubusercontent.com
 marketplace-screenshots.githubusercontent.com
 marketplace-screenshots.githubusercontent.com
+github-production-user-asset-6210df.s3.amazonaws.com
 github-production-user-asset-6210df.s3.amazonaws.com
 github-production-user-asset-6210df.s3.amazonaws.com
 github-production-user-asset-6210df.s3.amazonaws.com
